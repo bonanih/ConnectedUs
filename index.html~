@@ -1,0 +1,11 @@
+<html>
+
+<frameset rows="25%,50%">
+
+  <frame src="frame_a.html" />
+  <frame src="frame_b.html" />
+  
+
+</frameset>
+
+</html>

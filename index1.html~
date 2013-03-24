@@ -1,0 +1,12 @@
+<html>
+
+<frameset rows="20%,40%,40%">
+
+  <frame src="signup.html" />
+  <frame src="info.html" />
+  <frame src="why.html" />
+  
+
+</frameset>
+
+</html>

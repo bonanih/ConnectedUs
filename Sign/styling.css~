@@ -1,0 +1,15 @@
+body {
+	margin:0;
+	padding:0;
+	background:#000000;
+}
+
+.top_bg {
+	background:url(1.jpg) repeat-x left top;
+	height:419px;
+}
+
+.center {
+	background:url(side.jpg) no-repeat center;
+	height:400px;
+}

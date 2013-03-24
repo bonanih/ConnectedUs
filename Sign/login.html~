@@ -1,0 +1,19 @@
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="style1.css" />
+	</head>
+	<body class="repeat">
+<PRE>
+	<form action = "login.php" method = "post" >
+		<font  color = "DeepPink" face = "impact" size = 3.5> 
+		Login:
+		NickName:    <input type="text" name="NickName"/><br/>
+		Password:      <input type="password" name="passwd"/><br/>	
+		<input type="submit" value = "Submit"/> </font> <br/>	
+	</form>	
+</PRE>
+</body>
+<body>
+<img class="right-bottom" src="/connect/images/logo.gif" width = 300 height=180>
+</body>
+</html>

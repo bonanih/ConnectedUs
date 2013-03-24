@@ -1,0 +1,24 @@
+
+	.repeat{
+	background-image:url('/connect/images/back.jpg');
+	background-repeat: once;
+	background-attachment:fixed;
+	text-align:left;	
+	}
+
+	.right-bottom{
+		right:250px;
+		bottom:0px;
+		position: fixed
+	}
+	
+	.right-top{
+	right:0px;
+	top:0px;
+	}
+	
+	.center{
+	width:400;
+	height:200;
+	}
+

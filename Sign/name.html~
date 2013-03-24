@@ -1,0 +1,50 @@
+<html>
+<body>
+
+<h3>ENTER DETAILS</h3>
+<pre>
+<form action="">
+Firstname:  <input type="text" name="firstname" /><br />
+Lastname :  <input type="text" name="lastname" /><br />
+Nickname :  <input type="text" name="nickname" /><br />
+Email-Id :  <input type="text" name="id" /><br />
+Birthday :  <input type = "int" name="bday"  /> <br />
+</pre>
+<h2>ABOUT YOU </h2>
+
+
+<pre>
+Likes and Interests:  <table border="0" cellspacing="0" cellpadding="5"><tr>
+<td>
+<textarea name="like">
+</textarea>
+</td>
+</tr></table>
+Political Interests:  <table border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td>
+<textarea name="like">
+</textarea>
+</td>
+</tr></table>
+Likes and Interests:  <table border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td>
+<textarea name="like">
+</textarea>
+</td>
+</tr></table>
+Favourite Quotes :  <table border="0" cellspacing="0" cellpadding="5">
+<tr>
+<td>
+<textarea name="like">
+</textarea>
+</td>
+</tr></table>
+</pre>
+<input type="submit" value="Submit" />
+</form>
+</pre>
+</body>
+</html>
+

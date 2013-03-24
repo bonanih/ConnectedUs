@@ -1,0 +1,12 @@
+/*UPDATE TABLE IF EXISTS Personal_Information;*/
+CREATE TABLE Personal_Information (
+  firstname varchar(50) NOT NULL default 'No Name',
+  lastname varchar(50) NOT NULL default 'No Name',
+  NickName varchar(10) NOT NULL default 'No Name',
+  Email varchar(100) NOT NULL default 'No Email',
+  passwd varchar(15) default NULL,
+  degree varchar(50) NOT NULL default 'Undergraduate',
+  date datetime default NULL,
+  PRIMARY KEY  (NickName)
+);
+/*INSERT INTO Personal_Information VALUES ('John', 'Doe', 'John', 'john@doe.com','password', 'Undergraduate', '25-02-1992');*/

@@ -1,0 +1,44 @@
+
+.norepeat{
+	background-image:url('/connect/images/why.gif');
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size: 830px;
+	}
+	
+.logo{
+	background-image:url('/connect/images/logo.gif');
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size: 280px;
+	}
+	
+.new{
+	background-image:url('/connect/images/logo.gif');
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size: 280px;
+	}
+	
+	.right{
+	text-align:right;
+	}
+	
+	.size{
+	height:240;
+	width:430;
+	}
+	
+	.size{
+	height:240;
+	width:430;
+	}
+	
+	.Size{
+	height:235;
+	width:432;
+	}
+	
+
+	
+
